@@ -1,0 +1,1 @@
+// This file has been removed - FloatingElements component is no longer used

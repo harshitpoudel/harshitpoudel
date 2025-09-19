@@ -1,0 +1,1 @@
+// This file has been removed - RoboticArmSignature component is no longer used
